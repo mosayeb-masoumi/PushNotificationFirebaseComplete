@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "871229231512",
+    "firebase_url": "https://arcane-dynamics-238711.firebaseio.com",
+    "project_id": "arcane-dynamics-238711",
+    "storage_bucket": "arcane-dynamics-238711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871229231512:android:55e6184d4cfe422b",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871229231512-hl5ghse2lm02ub606ljrc2d8ebqiluqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDoXFx8sm6mDnWpESs_Wss8y7f0bbJDpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871229231512-hl5ghse2lm02ub606ljrc2d8ebqiluqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871229231512:android:72e331a11383dbd7",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871229231512-hl5ghse2lm02ub606ljrc2d8ebqiluqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDoXFx8sm6mDnWpESs_Wss8y7f0bbJDpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871229231512-hl5ghse2lm02ub606ljrc2d8ebqiluqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
